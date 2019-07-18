@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Frutiapp</string>
+    <string name="nombre">¿Cómo te llamas?</string>
+    <string name="boton">Jugar</string>
+
+    <string name="vidas">Manzanas: </string>
+    <string name="jugador">Jugador: </string>
+    <string name="punteo">Punteo: 0</string>
+    <string name="res">Respuesta </string>
+    <string name="bot0n2">Comprobar</string>
+</resources>
